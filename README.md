@@ -18,3 +18,6 @@ This project demonstrates the power of machine learning and deep learning using 
 
 ### parameters.csv photo:
 ![parametres csv_Photo](https://user-images.githubusercontent.com/92310650/220184845-1b97f732-43be-4d2a-9fa1-43c1d3a19915.PNG)
+
+### test.py result photo:
+![test py_Photo](https://user-images.githubusercontent.com/92310650/220185025-70bccae8-c877-4ad8-898f-fa1a3e09f6cf.PNG)
