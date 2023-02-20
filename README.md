@@ -8,3 +8,13 @@ The CNN uses the *Sigmoid* function, which provides two outputs: the percentage 
 The *parameters.csv* file generates the weights and biases after training the model. It contains the learned parameters that are used to make predictions on new data. 
 
 This project demonstrates the power of machine learning and deep learning using custom-built neural networks. It is a great example of how to build a neural network from scratch using only fundamental programming languages and libraries.
+
+
+### letters.csv photo: 
+![letters csv_Photo](https://user-images.githubusercontent.com/92310650/220184740-de1ce4d9-d521-4de4-8f5b-01f7b56566e1.PNG)
+
+### train.csv photo:
+![train csv_Photo](https://user-images.githubusercontent.com/92310650/220184819-dbae75c5-45b7-47d2-adce-efa9c75cdaf3.PNG)
+
+### parameters.csv photo:
+![parametres csv_Photo](https://user-images.githubusercontent.com/92310650/220184845-1b97f732-43be-4d2a-9fa1-43c1d3a19915.PNG)
